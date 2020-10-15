@@ -1,0 +1,14 @@
+INFO    2020-10-15 02:27:14,334 [main] Base.BasePage  - OR Properties loaded
+INFO    2020-10-15 02:27:14,336 [main] Base.BasePage  - Config Properties loaded
+INFO    2020-10-15 02:27:23,448 [main] Base.BasePage  - Chrome Browser Launched!!
+INFO    2020-10-15 02:27:26,223 [main] Base.BasePage  - Navigating to url:https://www.zoho.com/
+INFO    2020-10-15 02:27:33,515 [main] Base.BasePage  - Clicking on an Element:login_XPATH
+INFO    2020-10-15 02:27:35,822 [main] Base.BasePage  - Typing in an Element:Email_XPATHenterd the value as:testingtutorial7@gmail.com
+INFO    2020-10-15 02:27:35,954 [main] Base.BasePage  - Clicking on an Element:ButtonID_XPATH
+INFO    2020-10-15 02:27:36,183 [main] Base.BasePage  - Typing in an Element:Password_XPATHenterd the value as:January@2019
+INFO    2020-10-15 02:27:36,278 [main] Base.BasePage  - Clicking on an Element:SignIn_XPATH
+INFO    2020-10-15 02:27:49,729 [main] Base.BasePage  - Clicking on an Element:CRM_XPATH
+INFO    2020-10-15 02:27:50,315 [main] Base.BasePage  - Clicking on an Element:Account_XPATH
+INFO    2020-10-15 02:27:51,145 [main] Base.BasePage  - Clicking on an Element:Accounts_XPATH
+INFO    2020-10-15 02:27:51,371 [main] Base.BasePage  - Clicking on an Element:CreateAccount_XPATH
+INFO    2020-10-15 02:27:52,491 [main] Base.BasePage  - Typing in an Element:AccountName_XPATHenterd the value as:Raman
